@@ -1,0 +1,41 @@
+html {
+    margin: 0;
+  }
+  
+  span {
+    display: black;
+  }
+  .canvas {
+    margin: 100px auto 100px;
+    width: 70%;
+    text-align: center;
+  }
+  
+  .button {
+    width: 90px;
+    height: 80px;
+    border: solid black 3px;
+    display: inline-block;
+  }
+  
+  #orange {
+    background: orange;
+  }
+  
+  #white {
+    background: white;
+    
+  }
+  #green {
+    background: green;
+  }
+  #yellow {
+    background: yellow;
+  }
+  #red {
+    background: red;
+  }
+  #black {
+    background: black;
+  }
+  
