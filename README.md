@@ -1,2 +1,2 @@
-# Color-Chenger
-Background Color Chenger
+# Color-Changer
+Background Color Changer
