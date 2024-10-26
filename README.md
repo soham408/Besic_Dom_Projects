@@ -1,4 +1,4 @@
-# Dom Projects
+# DOM Projects
 
  1) Background Color Changer
  2) BMI Calculator
