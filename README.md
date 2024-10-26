@@ -1,6 +1,8 @@
-# Color-Changer
-Background Color Changer 
+# Dom Projects
 
-HTML, CSS,
+ 1) Background Color Changer
+ 2) BMI Calculator
+ 3) Digital Clock 
 
-JavaScript ( normal if else and Switch case )
+
+HTML, CSS, JavaScript 
